@@ -1,0 +1,1 @@
+Websocket server which can handle and broadcast data for multiple client groups at once

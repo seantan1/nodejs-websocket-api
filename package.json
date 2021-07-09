@@ -1,0 +1,23 @@
+{
+  "name": "freya-donation-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean890/freya-donation-deploy-server.git"
+  },
+  "author": "pururun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sean890/freya-donation-deploy-server/issues"
+  },
+  "homepage": "https://github.com/sean890/freya-donation-deploy-server#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "websocket": "^1.0.28"
+  }
+}
