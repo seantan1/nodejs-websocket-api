@@ -1,23 +1,22 @@
 {
-  "name": "freya-donation-server",
+  "name": "nodejs-websocket-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Websocket server which can handle and broadcast data for multiple client groups at once",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sean890/freya-donation-deploy-server.git"
+    "url": ""
   },
-  "author": "pururun",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sean890/freya-donation-deploy-server/issues"
-  },
-  "homepage": "https://github.com/sean890/freya-donation-deploy-server#readme",
+  "homepage": "",
   "dependencies": {
     "http": "0.0.0",
     "websocket": "^1.0.28"
-  }
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
